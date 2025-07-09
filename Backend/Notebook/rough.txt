@@ -1,0 +1,14 @@
+auto_video_creator/
+│
+├── agents/
+│   ├── script_writer.py
+│   ├── voice_actor.py
+│   ├── graphic_designer.py
+│   └── director.py
+│
+├── graph_builder.py       ✅ LangGraph flow here
+├── run.py                 ✅ Entrypoint
+├── .env
+├── requirements.txt
+
+
